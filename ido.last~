@@ -1,0 +1,44 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/habti/" . ".emacs.d/")
+ ("c:/Users/" . "habti/")
+ ("c:/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/habti/"
+ "c:/Users/habti/.emacs.d/"
+ "c:/Users/habti/Programming/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".bash_profile"
+ "init.el"
+ "main.cpp"
+ ".projectile"
+ "main.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/habti/Programming/" (25731 14687 0 0) "test.css" "strassen_mult.h" "strassen_mult.c" "mincpp.exe" "matrix_32.h" "matrix_32.c~" "matrix_32.c" "main.exe" "main.c~" "main.cpp~" "main.cpp" "main.c" "a.exe" ".vscode/" ".projectile" ".#main.cpp" "#main.cpp#" "../" "./")
+
+ ("c:/Users/habti/.emacs.d/" (25731 17041 0 0) "transient/" "snippets/" "recentf" "projectile.cache" "projectile-bookmarks.eld" "places" "init.el~" "init.el" "ido.last~" "ido.last" "history" "elpa/" "custom-vars.el~" "custom-vars.el" "auto-save-list/" "ac-comphist.dat" ".git/" "../" "./")
+
+ ("c:/Users/habti/" (25731 15467 0 0) "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "Programming/" "PrintHood/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{30a0a70a-0576-11ee-8a36-82f637edb315}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{30a0a70a-0576-11ee-8a36-82f637edb315}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{30a0a70a-0576-11ee-8a36-82f637edb315}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Favorites/" "Downloads/" "Documents/" "Cookies/" "Contacts/" "Application Data/" "AppData/" ".vscode-cli/" ".vscode/" ".viminfo" ".redhat/" ".idlerc/" ".history" ".emacs.d/" ".cache/" ".bash_history" "../" "./")
+
+ ("c:/langpacks/" (25728 58002 0 0) "nl-NL/" "it-IT/" "fr-FR/" "de-DE/" "../" "./")
+
+ ("c:/Users/" (25731 433 0 0) "Public/" "habti/" "desktop.ini" "defaultuser100000/" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/emacs-28.2/" (25729 44171 0 0) "share/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("c:/emacs-28.2/bin/" (25729 44150 0 0) "zlib1.dll" "runemacs.exe" "libzstd.dll" "libXpm-noX4.dll" "libxml2-2.dll" "libwinpthread-1.dll" "libwebp-7.dll" "libunistring-2.dll" "libturbojpeg.dll" "libtiffxx-5.dll" "libtiff-5.dll" "libthai-0.dll" "libtasn1-6.dll" "libstdc++-6.dll" "librsvg-2-2.dll" "libpng16-16.dll" "libpixman-1-0.dll" "libpcre-1.dll" "libpangowin32-1.0-0.dll" "libpangoft2-1.0-0.dll" "libpangocairo-1.0-0.dll" "libpango-1.0-0.dll" "libp11-kit-0.dll" "libnettle-8.dll" "liblzma-5.dll" "libLerc.dll" "liblcms2-2.dll" "libjpeg-8.dll" "libjbig-0.dll" "libjansson-4.dll" "libintl-8.dll" "libidn2-0.dll" "libiconv-2.dll" "libhogweed-6.dll" "libharfbuzz-subset-0.dll" "libharfbuzz-icu-0.dll" "libharfbuzz-gobject-0.dll" "libharfbuzz-0.dll" "libgraphite2.dll" "libgobject-2.0-0.dll" "libgnutlsxx-28.dll" "libgnutls-openssl-27.dll" "libgnutls-30.dll" "libgmpxx-4.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgdk_pixbuf-2.0-0.dll" "libgcc_s_seh-1.dll" "libfribidi-0.dll" "libfreetype-6.dll" "libfontconfig-1.dll" "libffi-7.dll" "libexpat-1.dll" "libdeflate.dll" "libdatrie-1.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "libbrotlidec.dll" "libbrotlicommon.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-28.2.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,0 +1,2 @@
+;;; Generated package description from bash-completion.el  -*- no-byte-compile: t -*-
+(define-package "bash-completion" "20230607.931" "Bash completion for the shell buffer" '((emacs "25.3")) :commit "6fca128da5e53d9d953052a6775525daa325367d" :authors '(("Stephane Zermatten" . "szermatt@gmx.net")) :maintainers '(("Stephane Zermatten" . "szermatt@gmail.com")) :maintainer '("Stephane Zermatten" . "szermatt@gmail.com") :keywords '("convenience" "unix") :url "http://github.com/szermatt/emacs-bash-completion")
