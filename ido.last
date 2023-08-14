@@ -1,0 +1,97 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/wassi/Code/" . "Atari/")
+ ("d:/Info/" . "Assembly/")
+ ("d:/" . "Info/")
+ ("c:/Users/wassi/OneDrive/" . "Documents/")
+ ("c:/" . "Documents and Settings/")
+ ("c:/Users/wassi/OneDrive/Documents/GitHub/" . "ReinforecementLearning/")
+ ("c:/Users/wassi/OneDrive/Documents/" . "GitHub/")
+ ("c:/Users/" . "wassi/")
+ ("c:/Users/wassi/python/finproj/" . "src/")
+ ("c:/Users/wassi/python/" . "finproj/")
+ ("c:/Users/wassi/Documents/Python/ReinforecementLearning/" . "Cart_Pole/")
+ ("c:/Users/wassi/Documents/Python/" . "DQN/")
+ ("c:/Users/wassi/Documents/" . "Python/")
+ ("c:/Users/wassi/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/wassi/Code/Atari/"
+ "c:/Users/wassi/.emacs.d/"
+ "c:/Users/wassi/Documents/Python/DQN/"
+ "c:/Users/wassi/"
+ "d:/Info/Assembly/cleanmem/"
+ "d:/Info/Assembly/"
+ "c:/Users/wassi/Documents/Python/"
+ "c:/Users/wassi/OneDrive/Documents/GitHub/ReinforecementLearning/"
+ "c:/Users/wassi/Documents/Python/ReinforecementLearning/Cart_Pole/"
+ "c:/Users/wassi/python/finproj/src/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "cleanmem.asm"
+ "init.el"
+ "init-projectile.el"
+ "dqn.py"
+ "main.py"
+ "uav_env.py"
+ "main2.py"
+ "test.asm"
+ "clearnmem.asm"
+ "atari2600_hardware.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/wassi/.emacs.d/" (25817 25768 0 0) "tmpkhCyoT" "tmp6xGucZ" "tmp4yFxQd" "snippets/" "python-settings.el~" "python-settings.el" "projectile.cache" "projectile-bookmarks.eld" "init.el~" "init.el" "init-themes.el~" "init-themes.el" "init-projectile.el" "init-multiple-cursors.el~" "init-multiple-cursors.el" "init-lsp-mode.el~" "init-lsp-mode.el" "init-expand-region.el~" "init-expand-region.el" "init-autocompletion.el~" "init-autocompletion.el" "ido.last~" "ido.last" "eshell/" "elpy/" "elpa/" "eln-cache/" "auto-save-list/" "6502.el" ".mc-lists.el" ".lsp-session-v1" ".custom-settings.el~" ".custom-settings.el" ".cache/" ".#init-projectile.el" "%backup%~" "../" "./")
+
+ ("c:/Users/wassi/Code/Atari/" (25817 27917 0 0) "../" "./")
+
+ ("c:/Users/wassi/Code/" (25817 27917 0 0) "QRL/" "DQN/" "Atari/" "../" "./")
+
+ ("c:/Users/wassi/Code/DQN/" (25817 25803 0 0) "uav_env.py" "reward_agent_uav.py" "outline_uav.py" "main2.py" "main.py" "dqn.py" ".vs/" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/wassi/" (25817 25097 0 0) "Videos/" "Templates/" "Start Menu/" "source/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{8f548723-29c1-11ee-b4cd-b0ccccc9f95d}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{8f548723-29c1-11ee-b4cd-b0ccccc9f95d}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{8f548723-29c1-11ee-b4cd-b0ccccc9f95d}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Installed/" "install-pyenv-win.ps1" "Favorites/" "EmacsRocks/" "emacs-29.1/" "Downloads/" "Documents/" "Cookies/" "Contacts/" "Code/" "chess.log" "Backup/" "Application Data/" "AppData/" ".vscode-R/" ".vscode/" ".ssh/" ".redhat/" ".pyenv/" ".pycodestyle" ".matplotlib/" ".lesshst" ".keras/" ".jupyter/" ".ipython/" ".gitconfig" ".git-for-windows-updater" ".emacs_backup_files/" ".emacs_autosave_files/" ".emacs.d/" ".dotnet/" ".config" ".chocolatey/" ".bash_profile" ".bash_history" "../" "./")
+
+ ("c:/Users/wassi/Documents/Python/DQN/" (25817 10468 0 0) "__pycache__/" "uav_env.py" "reward_agent_uav.py" "outline_uav.py" "main2.py" "main.py" "dqn.py" ".vs/" ".gitignore" ".git/" "#main.py#" "../" "./")
+
+ ("c:/Users/wassi/Documents/Python/" (25816 57544 0 0) "__pycache__/" "uav.py" "testo.py" "README.md" "Q_learn_grid.py" "Q_learn.py" "myutils.py" "main_drone.py" "main2.py" "main.py" "Grid_Game.py" "DQN/" ".python-version" ".git/" ".env/" "../" "./")
+
+ ("d:/Info/Assembly/" (25816 7948 0 0) "atari2600_hardware.txt" "../" "./")
+
+ ("d:/Info/" (25816 4611 0 0) "some books/" "React/" "PackMan/" "Java/" "html/" "Cpp/" "C#/" "C/" "Assembly/" "../" "./")
+
+ ("c:/Users/wassi/Documents/" (25816 1085 0 0) "Python/" "My Videos/" "My Pictures/" "My Music/" "Goal_UM6P" "../" "./")
+
+ ("c:/Users/wassi/OneDrive/Documents/GitHub/ReinforecementLearning/" (25815 19489 0 0) "uav_env.py" "reward_agent_uav.py" "outline_uav.py" "main.py" "dqn.py" ".git/" ".env/" "../" "./")
+
+ ("c:/Users/wassi/OneDrive/" (25814 30275 0 0) "Public/" "Pièces jointes/" "Photos rapides/" "Images/" "Documents/" "desktop.ini" "Desktop/" "Coffre-fort.lnk" "Bureau/" ".849C9593-D756-4E56-8D6E-42412F2A707B" "../" "./")
+
+ ("c:/Users/wassi/OneDrive/Documents/" (25814 25662 0 0) "Zoom/" "WindowsPowerShell/" "Visual Studio 2022/" "Sound Recordings/" "Python Scripts/" "Ordinateur portable de Wassil.url" "Ordinateur portable de Ouassel.url" "Modèles Office personnalisés/" "MATLAB/" "League of Legends/" "GitHub/" "Enregistrements audio/" "Downloads/" "desktop.ini" "Dell/" "Custom Office Templates/" "../" "./")
+
+ ("c:/Users/wassi/OneDrive/Documents/GitHub/" (25814 23950 0 0) "ReinforecementLearning/" "../" "./")
+
+ ("c:/Users/wassi/Documents/Python/ReinforecementLearning/Cart_Pole/" (25813 26963 0 0) "main.py~" "main.py" ".mypy_cache/" "../" "./")
+
+ ("c:/Users/wassi/python/finproj/src/" (25812 46358 0 0) "sqlconn.py" "pmsapp.py" "fifocapgain.py" ".#fifocapgain.py" "#pmsapp.py#" "#fifocapgain.py#" "../" "./")
+
+ ("c:/Users/" (25789 23230 0 0) "wassi/" "Public/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/wassi/python/finproj/" (25812 19255 0 0) "src/" "../" "./")
+
+ ("c:/Users/wassi/python/" (25812 19255 0 0) "README.md" "imageprocess/" "finproj/" "db/" ".git/" "../" "./")
+
+ ("c:/Users/wassi/Documents/Python/ReinforecementLearning/" (25801 42471 0 0) "Cart_Pole/" ".env/" "../" "./")
+
+ ("c:/Users/wassi/emacs-29.1/" (25801 39688 0 0) "share/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("c:/Users/wassi/emacs-29.1/bin/" (25801 40093 0 0) "zlib1.dll" "runemacs.exe" "libzstd.dll" "libXpm-noX4.dll" "libxml2-2.dll" "libwinpthread-1.dll" "libwebp-7.dll" "libunistring-2.dll" "libturbojpeg.dll" "libtree-sitter.dll" "libtiffxx-5.dll" "libtiff-5.dll" "libthai-0.dll" "libtasn1-6.dll" "libstdc++-6.dll" "libsqlite3-0.dll" "librsvg-2-2.dll" "libpng16-16.dll" "libpixman-1-0.dll" "libpcre-1.dll" "libpangowin32-1.0-0.dll" "libpangoft2-1.0-0.dll" "libpangocairo-1.0-0.dll" "libpango-1.0-0.dll" "libp11-kit-0.dll" "libnettle-8.dll" "liblzma-5.dll" "libLerc.dll" "liblcms2-2.dll" "libjpeg-8.dll" "libjbig-0.dll" "libjansson-4.dll" "libintl-8.dll" "libidn2-0.dll" "libiconv-2.dll" "libhogweed-6.dll" "libharfbuzz-subset-0.dll" "libharfbuzz-icu-0.dll" "libharfbuzz-gobject-0.dll" "libharfbuzz-0.dll" "libgraphite2.dll" "libgobject-2.0-0.dll" "libgnutlsxx-30.dll" "libgnutls-openssl-27.dll" "libgnutls-30.dll" "libgmpxx-4.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgdk_pixbuf-2.0-0.dll" "libgcc_s_seh-1.dll" "libfribidi-0.dll" "libfreetype-6.dll" "libfontconfig-1.dll" "libffi-7.dll" "libexpat-1.dll" "libdeflate.dll" "libdatrie-1.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "libbrotlidec.dll" "libbrotlicommon.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-29.1.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

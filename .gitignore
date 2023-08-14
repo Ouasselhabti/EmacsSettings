@@ -1,0 +1,24 @@
+# Ignore cache directories
+.cache/
+auto-save-list/
+eln-cache/
+elpa/
+
+# Ignore temporary files
+*~
+tmp*/
+
+# Ignore specific files
+.custom-settings.el~
+.lsp-session-v1
+init-autocompletion.el~
+init-expand-region.el~
+init-lsp-mode.el~
+init-multiple-cursors.el~
+init-themes.el~
+init.el~
+python-settings.el~
+
+# Ignore backup files
+%backup%~
+

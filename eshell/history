@@ -1,0 +1,39 @@
+ls
+clear
+clear
+ls
+clear
+cd ~
+clear
+pwd
+cd OneDrive/Documents/GitHub/ReinforecementLearning/
+clea
+clear
+clear
+python main.py 
+python install venv
+pip install -m venv
+clear
+python --version
+virtualenv -p python2.7 venv27
+virtualenv -p C:\Python27\python2.7.exe venv27
+pyenv versions
+pyenv versions
+clear
+pyenv versions
+clear
+cd ..
+ls .env/
+source .env/Scripts/activate
+clear
+./.env/Scripts/activate
+rm .pycodestyle 
+clear
+ls
+rm #Grid_Game.py#
+clear
+sl
+ls
+rm init-flycheck.el 
+ls
+clear
