@@ -66,6 +66,8 @@
 (load "~/.emacs.d/init-lsp-mode.el")
 ;;projectile
 (load "~/.emacs.d/init-projectile.el")
+;;ace-jump-mode
+(load "~/.emacs.d/init-ace-jump.el")
 ;;6502 assembly
 (load "~/.emacs.d/6502.el")
 (require '6502-mode)
