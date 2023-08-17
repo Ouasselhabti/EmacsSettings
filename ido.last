@@ -2,9 +2,9 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("c:/Users/wassi/Code/" . "Atari/")
+ ("c:/Users/wassi/Code/" . "Chess/")
  ("d:/Info/" . "Assembly/")
- ("d:/" . "Info/")
+ ("d:/" . "comp_prog/")
  ("c:/Users/wassi/OneDrive/" . "Documents/")
  ("c:/" . "Documents and Settings/")
  ("c:/Users/wassi/OneDrive/Documents/GitHub/" . "ReinforecementLearning/")
@@ -20,12 +20,16 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "c:/Users/wassi/Code/Atari/"
  "c:/Users/wassi/.emacs.d/"
+ "d:/comp_prog/"
+ "c:/Users/wassi/Code/Programming/"
+ "c:/Users/wassi/Code/Chess/"
+ "c:/Users/wassi/.emacs.d/someEL/"
+ "c:/Users/wassi/Code/Atari/"
+ "d:/Info/Assembly/"
  "c:/Users/wassi/Documents/Python/DQN/"
  "c:/Users/wassi/"
  "d:/Info/Assembly/cleanmem/"
- "d:/Info/Assembly/"
  "c:/Users/wassi/Documents/Python/"
  "c:/Users/wassi/OneDrive/Documents/GitHub/ReinforecementLearning/"
  "c:/Users/wassi/Documents/Python/ReinforecementLearning/Cart_Pole/"
@@ -34,29 +38,39 @@
 
 ;; ----- ido-work-file-list -----
 (
- "cleanmem.asm"
  "init.el"
- "init-projectile.el"
- "dqn.py"
- "main.py"
- "uav_env.py"
- "main2.py"
- "test.asm"
- "clearnmem.asm"
+ "closestsubstring.py"
+ "init-ace-jump.el"
+ "ace-jump-mode.el"
+ "closestsum.py"
+ "board.py"
+ "python-settings.el"
+ "cleanmem.asm"
  "atari2600_hardware.txt"
+ "init-projectile.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Users/wassi/.emacs.d/" (25817 25768 0 0) "tmpkhCyoT" "tmp6xGucZ" "tmp4yFxQd" "snippets/" "python-settings.el~" "python-settings.el" "projectile.cache" "projectile-bookmarks.eld" "init.el~" "init.el" "init-themes.el~" "init-themes.el" "init-projectile.el" "init-multiple-cursors.el~" "init-multiple-cursors.el" "init-lsp-mode.el~" "init-lsp-mode.el" "init-expand-region.el~" "init-expand-region.el" "init-autocompletion.el~" "init-autocompletion.el" "ido.last~" "ido.last" "eshell/" "elpy/" "elpa/" "eln-cache/" "auto-save-list/" "6502.el" ".mc-lists.el" ".lsp-session-v1" ".custom-settings.el~" ".custom-settings.el" ".cache/" ".#init-projectile.el" "%backup%~" "../" "./")
+ ("c:/Users/wassi/.emacs.d/" (25822 24262 0 0) "tmpkhCyoT" "tmp6xGucZ" "tmp4yFxQd" "snippets/" "python-settings.el~" "python-settings.el" "projectile.cache" "projectile-bookmarks.eld" "init.el~" "init.el" "init-themes.el~" "init-themes.el" "init-projectile.el" "init-multiple-cursors.el~" "init-multiple-cursors.el" "init-lsp-mode.el~" "init-lsp-mode.el" "init-expand-region.el~" "init-expand-region.el" "init-autocompletion.el~" "init-autocompletion.el" "init-ace-jump.el" "ido.last~" "ido.last" "eshell/" "elpy/" "elpa/" "eln-cache/" "auto-save-list/" "ace-jump-mode.el" "ac-comphist.dat" "6502.el" ".mc-lists.el" ".lsp-session-v1" ".gitignore" ".git/" ".custom-settings.el~" ".custom-settings.el" ".cache/" "%backup%~" "../" "./")
 
- ("c:/Users/wassi/Code/Atari/" (25817 27917 0 0) "../" "./")
+ ("c:/Users/wassi/" (25822 15946 0 0) "_viminfo" "Videos/" "ThirdLibs/" "Templates/" "Start Menu/" "source/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PythonDoc/" "python-3.11.4-docs-html/" "PrintHood/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{8f548723-29c1-11ee-b4cd-b0ccccc9f95d}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{8f548723-29c1-11ee-b4cd-b0ccccc9f95d}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{8f548723-29c1-11ee-b4cd-b0ccccc9f95d}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Installed/" "install-pyenv-win.ps1" "Favorites/" "emacs-29.1/" "Downloads/" "Documents/" "Cookies/" "Contacts/" "Code/" "chess.log" "Backup/" "Application Data/" "AppData/" ".vscode-R/" ".vscode/" ".virtualenvs/" ".viminfo" ".ssh/" ".redhat/" ".pyenv/" ".pycodestyle" ".minttyrc" ".matplotlib/" ".lesshst" ".keras/" ".jupyter/" ".ipython/" ".gitconfig" ".git-for-windows-updater" ".emacs_backup_files/" ".emacs_autosave_files/" ".emacs.d/" ".dotnet/" ".config" ".chocolatey/" ".bash_profile" ".bash_history" "../" "./")
 
- ("c:/Users/wassi/Code/" (25817 27917 0 0) "QRL/" "DQN/" "Atari/" "../" "./")
+ ("d:/comp_prog/" (25820 57188 0 0) "watermelon.java" "Tolong.java" "Tolong.class" "Theatre.java" "Theatre.class" "Test.java" "Test.class" "tempCodeRunnerFile.javascript" "Team.java" "Team.class" "NextRound.java" "NextRound.class" "main.exe" "main.cpp" "IQTest.java" "Domino.java" "Domino.class" "closestsubstring.py" ".vscode/" "../" "./")
 
- ("c:/Users/wassi/Code/DQN/" (25817 25803 0 0) "uav_env.py" "reward_agent_uav.py" "outline_uav.py" "main2.py" "main.py" "dqn.py" ".vs/" ".gitignore" ".git/" "../" "./")
+ ("c:/Users/wassi/Code/" (25819 65164 0 0) "QRL/" "Programming/" "DQN/" "Chess/" "Atari/" ".python-version" ".env/" "../" "./")
 
- ("c:/Users/wassi/" (25817 25097 0 0) "Videos/" "Templates/" "Start Menu/" "source/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{8f548723-29c1-11ee-b4cd-b0ccccc9f95d}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{8f548723-29c1-11ee-b4cd-b0ccccc9f95d}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{8f548723-29c1-11ee-b4cd-b0ccccc9f95d}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Installed/" "install-pyenv-win.ps1" "Favorites/" "EmacsRocks/" "emacs-29.1/" "Downloads/" "Documents/" "Cookies/" "Contacts/" "Code/" "chess.log" "Backup/" "Application Data/" "AppData/" ".vscode-R/" ".vscode/" ".ssh/" ".redhat/" ".pyenv/" ".pycodestyle" ".matplotlib/" ".lesshst" ".keras/" ".jupyter/" ".ipython/" ".gitconfig" ".git-for-windows-updater" ".emacs_backup_files/" ".emacs_autosave_files/" ".emacs.d/" ".dotnet/" ".config" ".chocolatey/" ".bash_profile" ".bash_history" "../" "./")
+ ("c:/Users/wassi/Code/Programming/" (25820 2092 0 0) "closestsum.py" ".#closestsum.py" "../" "./")
+
+ ("c:/Users/wassi/Code/Chess/" (25819 63855 0 0) "board.py" "board.c" ".#build.sh" "../" "./")
+
+ ("c:/Users/wassi/Code/DQN/" (25819 51722 0 0) "__pycache__/" "uav_env.py" "reward_agent_uav.py" "outline_uav.py" "main2.py" "main.py" "dqn.py" ".vs/" ".python-version" ".gitignore" ".git/" ".#uav_env.py" "../" "./")
+
+ ("c:/Users/wassi/.emacs.d/someEL/" (25819 41138 0 0) "ace-jump-mode.el" "../" "./")
+
+ ("d:/Info/Assembly/cleanmem/" (25817 3280 0 0) "clearnmem.asm" "../" "./")
+
+ ("c:/Users/wassi/Code/Atari/" (25819 40389 0 0) "cleanmem.asm" ".cleanmem.asm.swp" "../" "./")
 
  ("c:/Users/wassi/Documents/Python/DQN/" (25817 10468 0 0) "__pycache__/" "uav_env.py" "reward_agent_uav.py" "outline_uav.py" "main2.py" "main.py" "dqn.py" ".vs/" ".gitignore" ".git/" "#main.py#" "../" "./")
 

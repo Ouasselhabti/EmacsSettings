@@ -1,1 +1,1 @@
-("~/Code/DQN/" "~/OneDrive/Documents/GitHub/ReinforecementLearning/" "~/Code/QRL/")
+("~/.emacs.d/" "~/Code/DQN/" "~/Code/QRL/")

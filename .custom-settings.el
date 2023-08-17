@@ -10,7 +10,7 @@
  '(lsp-clients-clangd-executable
    "C:\\Users\\wassi\\Installed\\clangd_16.0.2\\bin\\clangd.exe")
  '(package-selected-packages
-   '(auto-complete ivy projectile cl-lib cl-libify cl-format gruber-darker-theme nordic-night-theme flycheck company-box evil lsp-ui expand-region multiple-cursors elpy command-log-mode)))
+   '(pydoc vterm auto-complete ivy projectile cl-lib cl-libify cl-format gruber-darker-theme nordic-night-theme flycheck company-box evil lsp-ui expand-region multiple-cursors elpy command-log-mode)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

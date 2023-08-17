@@ -37,3 +37,27 @@ ls
 rm init-flycheck.el 
 ls
 clear
+git status
+git add init-ace-jump.el someEL
+git add init.el
+git commit -m "add smart jumping"
+git branch -r
+git branch
+git push -u origin main
+ls
+clear
+clear
+cd ..
+clear
+./.env/Scripts/activate
+mv someEL/ace-jump-mode.el .
+rm -rf someEL/
+ls
+cd ..
+ls
+cd Chess/
+clear
+ls
+python board.
+clear
+python board.py 

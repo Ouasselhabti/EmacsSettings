@@ -1071,3 +1071,4 @@ will stop synchronizing mark information with emacs mark ring. "
 ;; Local Variables: 
 ;; byte-compile-warnings: (not cl-functions) 
 ;; End:
+

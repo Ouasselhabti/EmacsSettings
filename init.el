@@ -8,7 +8,10 @@
 (blink-cursor-mode 1)
 (set-fringe-mode 2)
 (ido-mode 1)
+(pending-delete-mode t) ;; whenever i highlight something , it changed with what i write directly
 (set-face-attribute 'default nil :height 150)
+(setq display-line-numbers-type 'relative) ;;relative line numbering 
+(global-display-line-numbers-mode) ;; global to all buffers
 (setq backup-directory-alist `(("." . "~/.emacs_backup_files")))
 (setq auto-save-file-name-transforms
       `((".*" "~/.emacs_autosave_files/" t)))
@@ -68,8 +71,18 @@
 (load "~/.emacs.d/init-projectile.el")
 ;;ace-jump-mode
 (load "~/.emacs.d/init-ace-jump.el")
+(load "~/.emacs.d/ace-jump-mode.el")
 ;;6502 assembly
 (load "~/.emacs.d/6502.el")
 (require '6502-mode)
 (add-to-list 'auto-mode-alist '("\\.s65" . 6502-mode))
 
+
+
+
+
+
+
+
+
+(put 'upcase-region 'disabled nil)

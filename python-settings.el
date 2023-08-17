@@ -13,3 +13,6 @@
 
 ;; Configure Elpy to use the specific shebang interpreter
 (setq elpy-rpc-python-command "~/.pyenv/pyenv-win/versions/3.11.3/python3.11.exe")
+
+;; forcing completion
+(keymap-global-set "M-c" 'belpy-company-backend)
